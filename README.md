@@ -9,6 +9,7 @@ Until now, Cyclistic’s marketing strategy relied on building general awareness
 Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers, Moreno believes that maximizing the number of annual members will be key to future growth. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a very good chance to convert casual riders into members. She notes that casual riders are already aware of the Cyclistic program and have chosen Cyclistic for their mobility needs.
 
 ## Analytics Visualization
+The visualization of this case study is present in my tableau public profile. Link below.
 [Tableau Dashboard](https://public.tableau.com/views/CyclisticBikeShareViz/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Activities Performed
